@@ -1,2 +1,2 @@
-# Lab2_SL
-Resolución laboratorio2 Statistical Learning
+# Proyecto de Curso Statistical Learning
+## Ejecución proyecto de curso de Statistical Learning
